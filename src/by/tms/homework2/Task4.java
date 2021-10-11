@@ -10,15 +10,16 @@ public class Task4 {
     }
 
     public static int[] linearize(int[][] array) {
-        int[] arr2 = new int[4];
         int k = 0;
-        for (int i = 0; i < array.length; i++) {
+        int i = 0;
+        int[] array2 = new int[array.length*array[i].length];
+        for (; i < array.length; i++) {
             for (int j = 0; j < array[i].length; j++) {
-                arr2[k] = array[i][j];
+                array2[k] = array[i][j];
                 k++;
             }
         }
-        return arr2;
+        return array2;
     }
 }
 
