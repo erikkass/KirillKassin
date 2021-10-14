@@ -1,4 +1,4 @@
-package by.tms.homework4;
+package by.tms.homework44;
 
 public class Test {
     public static void main(String[] args) {
@@ -8,6 +8,6 @@ public class Test {
         System.out.println("Площадь: " + rectangle.getAreaRectangle(point1, point2));
         System.out.println("Диагональ: " + rectangle.getDiagonalRectangle(point1, point2));
         System.out.println("Периметр: " + rectangle.getPerimeterRectangle(point1, point2));
-//        апвпвапвап
+
     }
 }
