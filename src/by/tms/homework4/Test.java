@@ -8,5 +8,6 @@ public class Test {
         System.out.println("Площадь: " + rectangle.getAreaRectangle(point1, point2));
         System.out.println("Диагональ: " + rectangle.getDiagonalRectangle(point1, point2));
         System.out.println("Периметр: " + rectangle.getPerimeterRectangle(point1, point2));
+//        апвпвапвап
     }
 }

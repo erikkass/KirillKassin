@@ -3,6 +3,7 @@ package by.tms.homework4;
 public class Point {
     public int x;
     public int y;
+//    аывва
 
     Point(int x, int y) {
         this.x = x;

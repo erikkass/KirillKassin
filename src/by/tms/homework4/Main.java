@@ -6,7 +6,7 @@ public class Main {
         Point point2 = new Point(10, 4);
         System.out.println(Point.getDistance(point1, point2));
 
-
+//аввыававы
     }
 
 }
