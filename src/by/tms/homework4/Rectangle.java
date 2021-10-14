@@ -1,4 +1,4 @@
-package by.tms.homework44;
+package by.tms.homework4;
 
 public class Rectangle {
     Point pointUpperLeftCorner = new Point(1, 4);

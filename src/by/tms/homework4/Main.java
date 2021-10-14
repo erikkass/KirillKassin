@@ -1,4 +1,4 @@
-package by.tms.homework44;
+package by.tms.homework4;
 
 public class Main {
     public static void main(String[] args) {
