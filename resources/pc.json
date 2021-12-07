@@ -1,0 +1,124 @@
+{
+  "devices" : [ {
+    "name" : "CPU",
+    "origin" : "USA",
+    "price" : 600.0,
+    "critical" : true,
+    "type" : {
+      "peripheral" : false,
+      "powerConsumption" : 65.0,
+      "fan" : false
+    },
+    "id" : "AD231254"
+  }, {
+    "name" : "Motherboard",
+    "origin" : "China",
+    "price" : 250.0,
+    "critical" : true,
+    "type" : {
+      "peripheral" : false,
+      "powerConsumption" : 30.0,
+      "fan" : false
+    },
+    "id" : "FD532164"
+  }, {
+    "name" : "GPU",
+    "origin" : "Germany",
+    "price" : 1000.0,
+    "critical" : true,
+    "type" : {
+      "peripheral" : false,
+      "powerConsumption" : 200.0,
+      "fan" : true
+    },
+    "id" : "DA565425"
+  }, {
+    "name" : "CPU Cooler",
+    "origin" : "USA",
+    "price" : 30.99,
+    "critical" : false,
+    "type" : {
+      "peripheral" : false,
+      "powerConsumption" : 10.0,
+      "fan" : true
+    },
+    "id" : "LA254854"
+  }, {
+    "name" : "RAM",
+    "origin" : "Canada",
+    "price" : 100.0,
+    "critical" : true,
+    "type" : {
+      "peripheral" : false,
+      "powerConsumption" : 50.0,
+      "fan" : false
+    },
+    "id" : "JA943621"
+  }, {
+    "name" : "SSD",
+    "origin" : "USA",
+    "price" : 60.0,
+    "critical" : true,
+    "type" : {
+      "peripheral" : false,
+      "powerConsumption" : 50.0,
+      "fan" : false
+    },
+    "id" : "IK763254"
+  }, {
+    "name" : "PSU",
+    "origin" : "Japan",
+    "price" : 200.0,
+    "critical" : true,
+    "type" : {
+      "peripheral" : false,
+      "powerConsumption" : 30.0,
+      "fan" : true
+    },
+    "id" : "RD242944"
+  }, {
+    "name" : "PC Case",
+    "origin" : "Sweden",
+    "price" : 100.0,
+    "critical" : false,
+    "type" : {
+      "peripheral" : false,
+      "powerConsumption" : 0.0,
+      "fan" : true
+    },
+    "id" : "HG453254"
+  }, {
+    "name" : "Mouse",
+    "origin" : "China",
+    "price" : 20.0,
+    "critical" : false,
+    "type" : {
+      "peripheral" : true,
+      "powerConsumption" : 5.0,
+      "fan" : false
+    },
+    "id" : "VB781254"
+  }, {
+    "name" : "Keyboard",
+    "origin" : "China",
+    "price" : 50.0,
+    "critical" : false,
+    "type" : {
+      "peripheral" : true,
+      "powerConsumption" : 10.0,
+      "fan" : false
+    },
+    "id" : "CX875254"
+  }, {
+    "name" : "Monitor",
+    "origin" : "Japan",
+    "price" : 300.0,
+    "critical" : false,
+    "type" : {
+      "peripheral" : true,
+      "powerConsumption" : 100.0,
+      "fan" : false
+    },
+    "id" : "FD432865"
+  } ]
+}

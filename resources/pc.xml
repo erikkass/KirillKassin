@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Devices>
+    <device ID="AD231254">
+        <name>CPU</name>
+        <origin>USA</origin>
+        <price>600.0</price>
+        <critical>true</critical>
+        <type>
+            <peripheral>false</peripheral>
+            <powerConsumption>65.0</powerConsumption>
+            <fan>false</fan>
+        </type>
+    </device>
+    <device ID="FD532164">
+        <name>Motherboard</name>
+        <origin>China</origin>
+        <price>250.0</price>
+        <critical>true</critical>
+        <type>
+            <peripheral>false</peripheral>
+            <powerConsumption>30.0</powerConsumption>
+            <fan>false</fan>
+        </type>
+    </device>
+    <device ID="DA565425">
+        <name>GPU</name>
+        <origin>Germany</origin>
+        <price>1000.0</price>
+        <critical>true</critical>
+        <type>
+            <peripheral>false</peripheral>
+            <powerConsumption>200.0</powerConsumption>
+            <fan>true</fan>
+        </type>
+    </device>
+    <device ID="LA254854">
+        <name>CPU Cooler</name>
+        <origin>USA</origin>
+        <price>30.99</price>
+        <critical>false</critical>
+        <type>
+            <peripheral>false</peripheral>
+            <powerConsumption>10.0</powerConsumption>
+            <fan>true</fan>
+        </type>
+    </device>
+    <device ID="JA943621">
+        <name>RAM</name>
+        <origin>Canada</origin>
+        <price>100.0</price>
+        <critical>true</critical>
+        <type>
+            <peripheral>false</peripheral>
+            <powerConsumption>50.0</powerConsumption>
+            <fan>false</fan>
+        </type>
+    </device>
+    <device ID="IK763254">
+        <name>SSD</name>
+        <origin>USA</origin>
+        <price>60.0</price>
+        <critical>true</critical>
+        <type>
+            <peripheral>false</peripheral>
+            <powerConsumption>50.0</powerConsumption>
+            <fan>false</fan>
+        </type>
+    </device>
+    <device ID="RD242944">
+        <name>PSU</name>
+        <origin>Japan</origin>
+        <price>200.0</price>
+        <critical>true</critical>
+        <type>
+            <peripheral>false</peripheral>
+            <powerConsumption>30.0</powerConsumption>
+            <fan>true</fan>
+        </type>
+    </device>
+    <device ID="HG453254">
+        <name>PC Case</name>
+        <origin>Sweden</origin>
+        <price>100.0</price>
+        <critical>false</critical>
+        <type>
+            <peripheral>false</peripheral>
+            <powerConsumption>0.0</powerConsumption>
+            <fan>true</fan>
+        </type>
+    </device>
+    <device ID="VB781254">
+        <name>Mouse</name>
+        <origin>China</origin>
+        <price>20.0</price>
+        <critical>false</critical>
+        <type>
+            <peripheral>true</peripheral>
+            <powerConsumption>5.0</powerConsumption>
+            <fan>false</fan>
+        </type>
+    </device>
+    <device ID="CX875254">
+        <name>Keyboard</name>
+        <origin>China</origin>
+        <price>50.0</price>
+        <critical>false</critical>
+        <type>
+            <peripheral>true</peripheral>
+            <powerConsumption>10.0</powerConsumption>
+            <fan>false</fan>
+        </type>
+    </device>
+    <device ID="FD432865">
+        <name>Monitor</name>
+        <origin>Japan</origin>
+        <price>300.0</price>
+        <critical>false</critical>
+        <type>
+            <peripheral>true</peripheral>
+            <powerConsumption>100.0</powerConsumption>
+            <fan>false</fan>
+        </type>
+    </device>
+</Devices>
